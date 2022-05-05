@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammad ibrahim</h1>
-<h3 align="center">A passionate frontend developer Tulkarm, Palestine</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Ibrahim</h1>
+<h3 align="center">A Passionate Front-End Developer Tulkarm, Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-ibrah1m&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-ibrah1m" /> </p>
 
