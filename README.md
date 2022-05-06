@@ -11,7 +11,6 @@
 
 - 🤝 I’m always trying to **learn new things**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mohammad-ibrah1m](https://github.com/Mohammad-ibrah1m)
 
 - 💬 Ask me about **JavaScript, BootStrap5, OOP**
 
