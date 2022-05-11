@@ -1,33 +1,59 @@
-<h1 align="center">Hi 👋, I'm Mohammad Ibrahim</h1>
-<h3 align="center">A Passionate Front-End Developer Tulkarm, Palestine</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-ibrah1m&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-ibrah1m" /> </p>
+<!--
+**MKhasib/mkhasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-ibrah1m" alt="mohammad-ibrah1m" /></a> </p>
+Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **improving my skills in Front-End Development**
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<h1>About Me 📌</h1>
 
-- 🌱 I’m currently learning **JavaScript**
+- 👋 I am Mohammad Ibrahim
+- 🔭 I am a Front-End Developer
+- 💻 I have a bachelore's degree in Computer Systems Engineering
+- 🌱 I am currently focusing on learning JavaScript and React
 
-- 🤝 I’m always trying to **learn new things**
+<br />
 
-
-- 💬 Ask me about **JavaScript, BootStrap5, OOP**
-
-- 📫 How to reach me **mohammads.ibrahim0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammad-s-ibrahim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammmad ibrahim" height="30" width="40" /></a>
-<a href="https://www.facebook.com/muhammadfar30n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad ibrahim" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/moh_ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moh_ibrahim" height="30" width="40" /></a>
+<h2 align="center">Quick Overview 📈</h2>
+  
+  <p align = "center">
+ 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Mohammad-ibrah1m&count_private=true&theme=dracula&hide_border=true" alt = "Mohammad-ibrah1m's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Mohammad-ibrah1m&count_private=true&theme=dracula&hide_border=true" alt = "Mohammad-ibrah1m's Rating" width = 400 >
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-ibrah1m&show_icons=true&locale=en&layout=compact" alt="mohammad-ibrah1m" /></p>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-ibrah1m&show_icons=true&locale=en" alt="mohammad-ibrah1m" /></p>
+<p align = "center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-ibrah1m&" alt="mohammad-ibrah1m" /></p>
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-ibrah1m&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "Mohammad-ibrah1m's Languages/Frameworks" width = 400 />
+</p>
+
+
+<br />
+<h2 align="center">Visitors 👀</h2>
+<div align="center" >
+  <img src="https://profile-counter.glitch.me/Mohammad-ibrah1m/count.svg"></img>
+</div>
+
+<br /><br />
+<h2 align="center">Let's Connect 😎</h2>
+<p align="center">
+  <a href = "mailto:mohammads.ibrahim0@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "https://www.linkedin.com/in/mohammad-s-ibrahim/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+ 
+</p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
