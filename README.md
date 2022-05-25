@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 👋 I am Mohammad Ibrahim
 - 🔭 I am a Front-End Developer
-- 💻 I have a bachelore's degree in Computer Systems Engineering
+- 💻 I have a bachelor's degree in Computer Systems Engineering
 - 🌱 I am currently focusing on learning JavaScript and React
 
 <br />
